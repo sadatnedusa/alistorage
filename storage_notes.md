@@ -1,8 +1,4 @@
-Below is a controller-level explanation, written from a storage-systems and appliance-troubleshooting perspective.
-
----
-
-## 1. What is an I/O Tracer in a Storage Controller?
+# 1. What is an I/O Tracer in a Storage Controller?
 
 An **I/O tracer** is a **diagnostic and observability mechanism** within a storage controller that captures, records, and correlates I/O operations as they traverse the controller’s internal pipeline.
 
